@@ -1,0 +1,8 @@
+https://www.youtube.com/watch?v=Bmtu5eNnjK8
+- Видео-урок
+
+https://getbootstrap.com/docs/5.3/getting-started/introduction/
+- Bootstrap
+https://webcode.tools/ - готовые css коды
+
+https://favicon.io/
